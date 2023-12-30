@@ -8,7 +8,7 @@ Calculus
 
 2) My Math education is based on Ukrainian mathematical terms, so it's kinda hard for me sometimes to grasp mathematical terms in English.
 
-And final inspiration to open tis repo was the [list of derivatives and integrals](https://en.wikipedia.org/wiki/List_of_derivatives_and_integrals_in_alternative_calculi). i like such tables because it gives a big picture of how all is related.
+And final inspiration to open tis repo was the [list of derivatives and integrals](https://en.wikipedia.org/wiki/List_of_derivatives_and_integrals_in_alternative_calculi). I like such tables because it gives a big picture of how all is related.
 
 ![img](./img.png)
 ## Sources
